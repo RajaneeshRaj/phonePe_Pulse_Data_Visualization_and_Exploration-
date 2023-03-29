@@ -1,4 +1,4 @@
-# phonePe_Pulse_Data_Visualization_and_Exploration-
+# PhonePe_Pulse_Data_Visualization_and_Exploration-
 Through this project we are going to visualize the online transactions done in Phonepe using GUI.
 
 What is Phonepe Pulse?
